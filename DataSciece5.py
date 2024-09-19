@@ -21,11 +21,7 @@ df
 
 
 df.info()
-
-
-# In[10]:
-
-
+#in [10]
 df.isna().sum()
 
 
